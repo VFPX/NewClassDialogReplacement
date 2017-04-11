@@ -16,4 +16,4 @@ What I have done is create an alternative New Class dialog that creates the clas
 
 The project manager is Peter de Valença, mailto:pvalenca@viafox.nl
 
-**![](New%20Class%20Dialog%20Replacement_vfpxreleasesmall.png) [release: Latest Release of New Class Dialog Replacement](35670)**
+Release: [Newclass_stable1.zip](Newclass_stable1.zip)
